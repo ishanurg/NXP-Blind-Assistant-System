@@ -1,11 +1,6 @@
 ## NXP-Blind-Assistant-System
 
-The Networked Automation System (NAS) project is designed to create a web-based dashboard that integrates automation, data visualization, and file management on the Raspberry Pi. It enables local control of connected devices, facilitating sensor automation to monitor environmental conditions and automate responses. Users can manage files—uploading, downloading, and viewing various formats—without needing the internet, with access across multiple devices on the local network. The NAS allows for running Jupyter Notebooks and executing scripts directly from the dashboard, enhancing functionality. Security is ensured through a two-tier user authentication system, and the system is designed to automatically start on boot for continuous availability. Overall, NAS empowers users to efficiently monitor and automate their environments, providing an innovative solution for personal and professional use.
+This innovative assistive solution is designed to provide continuous support for the visually impaired, integrating cutting-edge machine vision, voice control, and an intuitive graphical interface. It offers real-time object detection, text recognition, facial identification, and gesture control, enabling users to navigate their environment independently and confidently. The device features hands-free operation with far-field voice commands, dual-band wireless connectivity for seamless cloud integration, and customizable visual and auditory feedback. With its optimized hardware, pre-configured demos, and robust software support, this solution empowers visually impaired individuals to interact effortlessly with their surroundings, ensuring enhanced autonomy and accessibility in daily life.
 
-## Project Objectives
-Objective 01- 
-File Storage and Management<br/>
-Objective 02-
-Local Device Management and Automation<br/> 
-Objective 03- 
-Integrated Data Analysis and Execution of Custom code<br/>
+
+
